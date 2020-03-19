@@ -1,2 +1,8 @@
-// var nums = [1,2,3];
-// var doubleNums = nums.map((e) => e * 2);
+import pug from 'pug';
+
+// Compile the source code
+const compiledFunction = pug.compileFile('template.pug');
+
+compiledFunction({
+    name: 'Pendejo'
+});
