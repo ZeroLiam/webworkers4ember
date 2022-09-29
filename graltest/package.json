@@ -17,7 +17,7 @@
     "babel-preset-latest": "^6.24.1"
   },
   "dependencies": {
-    "d3": "^5.15.0",
+    "d3": "^7.6.1",
     "pug": "^2.0.4",
     "server": "^1.0.27"
   }
